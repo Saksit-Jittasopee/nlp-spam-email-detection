@@ -41,6 +41,7 @@ You need to install theses libraries to run this project:
 <li>Scikit-learn</li>
 <li>Transformers</li>
 <li>Dataset</li>
+<li>Accelerate</li>
 </ul>
 
 ```cmd
@@ -49,6 +50,7 @@ pip install pandas
 pip install -U scikit-learn
 pip install transformers
 pip install datasets
+pip install accelerate
 ```
 
 ## 📈 Training Loss & Validation Loss
