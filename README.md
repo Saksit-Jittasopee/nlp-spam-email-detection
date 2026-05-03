@@ -37,12 +37,14 @@
 You need to install theses libraries to run this project:
 <ul>
 <li>Pandas</li>
+<li>PyTorch</li>
 <li>Scikit-learn</li>
 <li>Transformers</li>
 <li>Dataset</li>
 </ul>
 
 ```cmd
+pip install torch
 pip install pandas
 pip install -U scikit-learn
 pip install transformers
